@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**sivameera1234-cell/sivameera1234-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**github.com/meera1261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
